@@ -11,16 +11,16 @@ function setBestCustomer() {
 }
 
 function overWriteBestCustomer(){
-  bestCustomer = "maybe bob"
+  bestCustomer = "maybe bob";
 }
 
-const leastFavoriteCustomer = 'John'
+const leastFavoriteCustomer = 'John';
 
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'bob';
  }
  
  function attemptTwoFavoriteCustomers() {
-  let favoriteCustomer = 'Josh'
-  let favoriteCustomer = 'Jenny'
+  let favoriteCustomer = 'Josh';
+  let favoriteCustomer = 'Jenny';
  }
